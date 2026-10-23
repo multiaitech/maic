@@ -127,3 +127,25 @@ document and https://multiaitech.com disagree, the site is correct.
 
 - **AURA** - what the app does, and how each feature is built: [AURA.md](AURA.md)
 - **Verify a build** - check a downloaded file against its published SHA-256: [docs/verify-a-build.md](docs/verify-a-build.md)
+## Licence and trademarks
+
+The documentation here - the text, the tables and the status data - is licensed under
+[Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
+The full legal text is in [LICENSE](LICENSE).
+
+**What you may do.** Copy it, quote it, and redistribute it in whole or in part, for any purpose including
+commercial use, provided that you:
+
+- credit **Multi AI Technology (MAIT)** and link to the licence;
+- link back to this repository or to https://multiaitech.com;
+- keep it unaltered. You may not publish a modified version, or present an edited copy as the original.
+  Quoting an excerpt for commentary, review or reporting is fine.
+
+**Trademarks are not covered.** The Multi AI Technology (MAIT) name, the MAIT and MAIC marks, the Aura name
+and logo, and the product names used here remain the property of Multi AI Technology. This licence grants
+no right to use them and implies no endorsement: a CC BY-ND 4.0 licence on this text is not a licence to use
+the brand.
+
+**What this does not cover.** The Aura application, the MAIC API, the MAIC token contract and every file
+distributed through the member portal are not part of this repository, and this licence grants no rights
+over them.
