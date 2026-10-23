@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://multiaitech.com/assets/img/products/Aura.png" alt="AURA, the desktop AI OS from MultiAI Technology" width="140">
+</p>
+
 # MAIC - MultiAI Community
 
 **Public documentation for Multi AI Technology and the MAIC community token.**
