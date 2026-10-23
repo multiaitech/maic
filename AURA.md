@@ -1,3 +1,7 @@
+<img src="assets/aura-desktop.png" alt="The Aura desktop application running a multi-model pipeline on a real MAIC documentation task: the Leader delegates to Coder Backend, then to Coder Frontend, then takes its own verification pass, with per-role token usage and duration listed on the right" width="100%">
+
+*The Aura desktop app executing a multi-model pipeline on a real documentation task in this repository. The Leader delegates to Coder Backend, then to Coder Frontend, then takes a verification pass of its own; the right-hand column shows the actual per-role token usage and duration, and each role is executed by a different model. Aura runs on your own machine with your own API keys, so the models may be remote (premium or free) or local depending on your configuration. The Programmer, Reviewer, Security and Tester roles can be switched on or off per run from the Control Panel, which is why two of them are inactive in this session. The first message in the transcript was sent from Telegram.*
+
 # AURA - Desktop AI OS
 
 **AURA** (Autonomous Unified Reasoning Agent) is a Windows desktop application that runs a team of AI agents on your own machine. You install it, point it at your own provider keys, and it plans, writes, reviews and verifies work - with a human in the loop wherever the work can touch your computer.
