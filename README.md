@@ -120,3 +120,8 @@ Use the endpoint, not this page, as the authoritative list - versions move.
 Nothing in this repository is financial, legal or investment advice. MAIC is a utility token, not
 a security or an investment product. Product status, figures and rules can change, and where this
 document and https://multiaitech.com disagree, the site is correct.
+
+## Documentation in this repository
+
+- **AURA** - what the app does, and how each feature is built: [AURA.md](AURA.md)
+- **Verify a build** - check a downloaded file against its published SHA-256: [docs/verify-a-build.md](docs/verify-a-build.md)
