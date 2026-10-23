@@ -148,5 +148,6 @@ the brand.
 
 **What this does not cover.** The Aura application, the MAIC API, the MAIC token contract and every file
 distributed through the member portal are not part of this repository, and this licence grants no rights
+over them.
 
 The screenshot in `assets/` is an illustration of the Aura application. It is not documentation text and is not licensed for reuse; it may be reproduced only unaltered and with attribution.
