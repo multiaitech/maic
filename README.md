@@ -127,6 +127,8 @@ document and https://multiaitech.com disagree, the site is correct.
 
 - **AURA** - what the app does, and how each feature is built: [AURA.md](AURA.md)
 - **Verify a build** - check a downloaded file against its published SHA-256: [docs/verify-a-build.md](docs/verify-a-build.md)
+- **Aura notes** - release 0.2.62, checkpoint retention, Lesson Learned local delete, coder model slots: [docs/README.md](docs/README.md)
+
 ## Licence and trademarks
 
 The documentation here - the text, the tables and the status data - is licensed under
